@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kristofer kröönström/1.0.0": {
+        "runtime": {
+          "kristofer kröönström.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kristofer kröönström/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
