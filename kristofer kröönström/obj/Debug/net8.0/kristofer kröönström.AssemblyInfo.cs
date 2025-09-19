@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kristofer kröönström")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f202099147159cc1ef3610021e62427d4143e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("kristofer kröönström")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kristofer kröönström")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Buustujurger123\\TARpe24_Prog_LukasLuht\\homework\\ProgTask1\\kristofer kröönström\\kristofer kröönström\\kristofer kröönström.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TARpe23\\Uesson\\introVStour\\kristofer kröönström\\kristofer kröönström.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Buustujurger123\\TARpe24_Prog_LukasLuht\\homework\\ProgTask1\\kristofer kröönström\\kristofer kröönström\\kristofer kröönström.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TARpe23\\Uesson\\introVStour\\kristofer kröönström\\kristofer kröönström.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Buustujurger123\\TARpe24_Prog_LukasLuht\\homework\\ProgTask1\\kristofer kröönström\\kristofer kröönström\\kristofer kröönström.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARpe23\\Uesson\\introVStour\\kristofer kröönström\\kristofer kröönström.csproj",
         "projectName": "kristofer kröönström",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Buustujurger123\\TARpe24_Prog_LukasLuht\\homework\\ProgTask1\\kristofer kröönström\\kristofer kröönström\\kristofer kröönström.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe23\\Uesson\\introVStour\\kristofer kröönström\\kristofer kröönström.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Buustujurger123\\TARpe24_Prog_LukasLuht\\homework\\ProgTask1\\kristofer kröönström\\kristofer kröönström\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TARpe23\\Uesson\\introVStour\\kristofer kröönström\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

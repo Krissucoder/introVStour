@@ -1,4 +1,6 @@
-﻿namespace kristofer_kröönström
+﻿using System.ComponentModel.Design;
+
+namespace kristofer_kröönström
 {
     internal class Program
     {
@@ -62,7 +64,7 @@
                 tehe = arv1 + arv2;
             }
 
-            
+
             Console.WriteLine($"{tehtetüüp} Tehte tulemus: {tehe}");
 
 
@@ -114,6 +116,86 @@
             //    int jagamine = jagatatav / jagaja;
             //Console.WriteLine($"Tehte tulemus:  {jagamine}");
             //    Console.WriteLine("Tehte tulemus: " + jagamine);
+            string lemmikpuuvili = "";
+            string valik = "";
+            string juurvili = "";
+            Console.WriteLine("Kas sulle meeldivad puuviljad või juurviljad, kirjuta kui meedlivad juurvilja, aga jätta tühjaks kuiu meeldivad puuviljad");
+            valik = Console.ReadLine();
+
+            if (valik == "puuviljad")
+            {
+
+
+
+                Console.WriteLine("Mis on sinu lemmik puuvili");
+                lemmikpuuvili = Console.ReadLine();
+
+                if (lemmikpuuvili == "maasikas")
+                {
+                    Console.WriteLine("Maasikas ei ole puuvili");
+
+                }
+                else if (lemmikpuuvili == "pirn")
+                {
+                    Console.WriteLine("Kas hapu pirn või magus  pirn, mõlemad on head.");
+
+                }
+                else if (lemmikpuuvili == "kartul")
+                {
+                    Console.WriteLine("See ei kasva isegi mitte puu otsas");
+
+                }
+                else
+                {
+                    Console.WriteLine("Ei tunne seda puuvilja");
+
+                }
+
+            }
+
+
+
+            if (valik == "juurviljad")
+            {
+
+
+
+                Console.WriteLine("Milline juurvili on su lemmik");
+                lemmikpuuvili = Console.ReadLine();
+
+                if (lemmikpuuvili == "till")
+                {
+                    Console.WriteLine("Till ei ole juurvili");
+
+                }
+                else if (lemmikpuuvili == "Kartul")
+                {
+                    Console.WriteLine("Kas hapu kurk või kartul, mõlemad on  head.");
+
+                }
+                else if (lemmikpuuvili == "kartul")
+                {
+                    Console.WriteLine("See ei kasva isegi  puu otsas");
+
+                }
+                else
+                {
+                    Console.WriteLine("Ei tunne seda juurvilja");
+
+                }
+
+            }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
